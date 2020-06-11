@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 And this is master
+=======
+Change in branch one
+>>>>>>> branch1
